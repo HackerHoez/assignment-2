@@ -1,0 +1,68 @@
+.flex{
+	display: flex; 
+	width: 100%;
+	background-color: magenta;
+}
+.blue {
+	width: 400px;
+	height: 400px;
+	margin-top: 10px;
+	margin-left: 10px;
+	margin-bottom: 20px;
+	margin-right: 10px;
+
+}
+.myfont {
+	font-family: 'helvetica neue';
+}
+
+
+
+.myfont p {
+	font-size: 40px;
+	font-family: 'helvetica neue';
+	font-weight: bolder;
+	padding-left: 10px;
+	padding-top: 2px;
+
+}
+
+
+img {
+	width: 400px;
+	height: 400px;
+}
+
+.myfont h1 {
+	font-size: 80px
+}
+
+p{
+	font-size: 40px;
+}
+h1{
+	font-style: 'helvetica neue'
+}
+
+.blue {
+	background-color: blue;
+
+}
+
+.space-around{
+	justify-content: space-around;
+
+}
+.flex-end{
+	justify-content: flex-end;
+}
+
+.flex-vertical{
+	display: flex;
+	height: 800px;
+	flex-direction: column;
+}
+a{
+color: blue;
+font-size: 30px;
+}

@@ -1,0 +1,52 @@
+body{
+	background-image: url('brock2.jpg');
+	background-repeat: repeat-y;
+	background-color: magenta; 
+}
+p{
+	color: white;
+	font-family: 'helvetica neue';
+	font-size: 120px;
+	font-style: bold;
+    writing-mode: vertical-rl;
+    text-orientation: mixed;
+    float: left;
+        height: 100%;
+        margin-left: 600px;
+}
+
+}
+
+h2 {
+	color: white;
+	font-family: 'helvetica neue';
+	font-style: italic;
+	font-size: 50px;
+	border: dashed 6px black;
+	border-left: 10px;
+	border-right: 10px;
+	font-weight: bold;
+}
+
+
+h3 {
+	color: white;
+	font-family: 'helvetica neue';
+	font-style: italic;
+	font-size: 40px;
+	border: dashed 4px magenta;
+	border-left: 10px;
+	border-right: 10px;
+
+}
+a{
+color: white;
+font-size: 30px;
+}
+
+.container{
+	display: inline-flex;
+	
+}
+
+

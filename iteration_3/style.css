@@ -1,0 +1,114 @@
+
+
+body {
+
+background: 
+margin: 0;
+background-image: url(brock2.jpg);
+
+background-position: center
+
+
+}
+
+div {
+
+margin: 40px auto;
+
+  
+
+align-content: center;
+
+}
+
+
+.flex-wrap {
+
+  flex-wrap:wrap;
+}
+
+
+
+.flexbig {
+	display: flex;
+	width: 1000px;
+	
+}
+
+
+.blue {
+	background-color: blue;
+}
+
+
+.space-between{
+
+	justify-content: space-between;
+}
+
+
+.flex-end {
+display: flex;
+height: 200px;
+	justify-content: flex-end;
+
+}
+
+
+ p {
+
+   font-family:Helvetica;
+
+      font-size: 15px;
+      color: magenta;
+      text-align: left;
+      padding:35px 30px 35px 30px;
+
+}
+
+
+
+h1 { 
+
+	font-family:Helvetica neue;
+
+      font-size: 100px;
+
+      font-weight: bold;
+      color: magenta;
+      font-style: 
+      text-align: center;
+      padding:30px 30px 30px 30px;
+
+}
+
+h2 { 
+
+	font-family:Helvetica neue;
+
+      font-size: 35px;
+
+      font-weight: lighter;
+      color: white;
+      text-align: left;
+     padding:10px 30px 10px 30px;
+
+}
+
+
+h3 { 
+
+	font-family:Helvetica neue;
+	font-weight: lighter;
+
+      font-size: 25px;
+
+      color: white;
+      text-align: left;
+      padding:20px 30px 20px 30px;
+
+}
+a{
+color: white;
+font-size: 30px;
+}

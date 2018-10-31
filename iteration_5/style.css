@@ -1,0 +1,48 @@
+body{
+	background-color:blue;
+}
+
+.magenta {
+	background-color: magenta;
+	display: flex;
+	width: 300px;
+	height: 200px;
+}
+.magenta2{
+	background-color: magenta;
+	width: 600px;
+	height:200px;
+	align-self: flex-end;
+	padding-left: 400px;
+background-image: url(brock2.jpg);
+
+}
+
+.myfont h1{
+	font-size: 68px;
+	font-family: 'helvetica neue';
+	font-weight: bold;
+	padding-left: 10px;
+	padding-top: 20px; 
+	color: black; 
+}
+
+
+.myfont h3{
+	font-size: 68px;
+	font-family: 'helvetica neue';
+	font-weight: bold;
+	color: white; 
+
+}
+
+.myfont{
+	padding-bottom: 300px;
+	padding-right: 300px;
+	padding-top: 0px;
+
+}
+a{
+color: magenta;
+font-size: 30px;
+}
